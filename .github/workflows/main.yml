@@ -4,5 +4,5 @@ jobs:
   Ubuntu:
     runs-on: ubuntu-latest
     steps:
-    - name: Setup Session
+    - name: Setup Session - test
       uses: csexton/debugger-action@master
