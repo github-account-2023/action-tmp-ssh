@@ -4,5 +4,5 @@ jobs:
   Ubuntu:
     runs-on: ubuntu-latest
     steps:
-    - name: Setup Session - openwrt
+    - name: Setup - openwrt
       uses: csexton/debugger-action@master
