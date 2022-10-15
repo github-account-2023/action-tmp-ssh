@@ -4,5 +4,5 @@ jobs:
   Ubuntu:
     runs-on: ubuntu-latest
     steps:
-    - name: Setup - aria2
+    - name: Setup - vpn
       uses: csexton/debugger-action@master
