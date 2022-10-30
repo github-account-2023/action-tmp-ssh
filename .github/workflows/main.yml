@@ -4,5 +4,5 @@ jobs:
   Ubuntu:
     runs-on: ubuntu-latest
     steps:
-    - name: Setup - bench
+    - name: Setup - exit
       uses: csexton/debugger-action@master
