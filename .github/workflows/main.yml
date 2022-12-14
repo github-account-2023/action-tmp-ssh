@@ -4,5 +4,5 @@ jobs:
   Ubuntu:
     runs-on: ubuntu-latest
     steps:
-    - name: Setup - test
+    - name: Setup - speedtest
       uses: csexton/debugger-action@master
