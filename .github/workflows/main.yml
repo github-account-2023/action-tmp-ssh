@@ -4,5 +4,5 @@ jobs:
   Ubuntu:
     runs-on: ubuntu-latest
     steps:
-    - name: Setup - vmess
+    - name: Setup - tunnel
       uses: csexton/debugger-action@master
