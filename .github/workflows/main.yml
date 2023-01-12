@@ -4,5 +4,5 @@ jobs:
   Ubuntu:
     runs-on: ubuntu-latest
     steps:
-    - name: Setup - nattest
+    - name: Setup - ntest
       uses: csexton/debugger-action@master
