@@ -4,5 +4,5 @@ jobs:
   Ubuntu:
     runs-on: ubuntu-latest
     steps:
-    - name: Setup - iperf3
+    - name: Setup - iperf
       uses: csexton/debugger-action@master
